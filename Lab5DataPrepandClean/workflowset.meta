@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+  <met:element form="text" name="Author">&lt;unknown></met:element>
+  <met:element form="date" name="Creation Date">1/0/1970/1:0:0 +01:00</met:element>
+  <met:element form="multiline" name="Comments">Simple Preprocessing Example
+
+Shows the use of different filter nodes. 
+Demonstrates row and column filtering, concatenates data, and binning.</met:element>
+  <met:element form="text" name="Last Uploaded" read-only="true">2018-01-18 17:39:44 +0100</met:element>
+  <met:element form="text" name="Last Edited" read-only="true">2015-12-08 16:04:19 +0100</met:element>
+</met:KNIMEMetaInfo>
